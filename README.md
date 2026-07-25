@@ -1,27 +1,157 @@
-# 💫 About Me:
-🎓 I’m currently working on  <br>• Java fundamentals and problem-solving  <br>• Mini projects using HTML, CSS, JavaScript  <br><br>🤝 I’m looking to collaborate on  <br>• Beginner-friendly Java projects  <br>• Simple web development projects  <br><br>🤝 I’m looking for help with  <br>• Data Structures & Algorithms (DSA) in Java  <br>• Backend concepts and real-world project ideas  <br><br>🌱 I’m currently learning  <br>• Core Java  <br>• Web Development (HTML, CSS, JavaScript)  <br><br>💬 Ask me about  <br>• Java basics  <br>• HTML & CSS  <br>• Beginner web projects  <br><br>⚡ Fun fact  <br>• I’m a B.Tech student who loves learning by building projects<br>
+<h1 align="center">Hi 👋, I'm Priyanshu Agarwal</h1>
 
+<p align="center">
+  <b>B.Tech Student • Aspiring Software Engineer • Java Backend Enthusiast</b>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agarwal__priyanshu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-agarwal-130573332) 
+<p align="center">
+Passionate about building software, solving problems, and continuously learning modern technologies.
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PriyanshuAgarwal1407&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PriyanshuAgarwal1407&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuAgarwal1407&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<a href="https://github.com/PriyanshuAgarwal1407">
+<img src="https://komarev.com/ghpvc/?username=PriyanshuAgarwal1407&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PriyanshuAgarwal1407&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PriyanshuAgarwal1407&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Learning+Data+Structures+%26+Algorithms;Building+Projects;Future+Software+Engineer" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PriyanshuAgarwal1407&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 B.Tech student passionate about Software Engineering
+- ☕ Focused on Java Backend Development
+- 🧠 Strengthening problem-solving with Data Structures & Algorithms
+- 🌐 Learning modern Full Stack Web Development
+- 📚 I enjoy learning by building practical applications
+- 🌱 Exploring Spring Boot, React and System Design
+- 🎯 Working towards Software Engineering roles at top product companies
+
+---
+
+## 📖 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Tailwind CSS
+- Spring Boot
+- REST APIs
+- SQL
+- Git & GitHub
+
+---
+
+## 🎯 Goals for 2026
+
+- 🚀 Become a strong Java Backend Engineer
+- 💻 Build production-ready applications
+- 🧠 Master Data Structures & Algorithms
+- 🌍 Contribute to Open Source
+- ⚙️ Learn System Design
+- ☁️ Explore Cloud Technologies
+- 💼 Crack Software Engineering interviews
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=PriyanshuAgarwal1407&theme=tokyonight&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=PriyanshuAgarwal1407&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PriyanshuAgarwal1407&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuAgarwal1407&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🌟 Interests
+
+- Backend Engineering
+- Software Architecture
+- System Design
+- Cloud Computing
+- Artificial Intelligence
+- Open Source
+- Developer Tools
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/priyanshu-agarwal-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/agarwal__priyanshu">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PriyanshuAgarwal1407">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CoderPriyanshuAgarwal?theme=dark&font=JetBrains%20Mono&ext=contest" />
+</p>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Learning today. Building tomorrow. Improving every day."</i>
+</p>
