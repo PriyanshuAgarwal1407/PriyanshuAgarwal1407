@@ -1,0 +1,125 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs automatically every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Allows you to trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch latest repositories and update README.md
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: |
+          python3 - << 'EOF'
+          import json
+          import os
+          import re
+          import urllib.request
+
+          username = os.environ.get("GH_USERNAME", "PriyanshuAgarwal1407")
+          token = os.environ.get("GH_TOKEN", "")
+
+          url = f"https://api.github.com/users/{username}/repos?sort=pushed&per_page=30&type=owner"
+          req = urllib.request.Request(url)
+          req.add_header("Accept", "application/vnd.github.v3+json")
+          req.add_header("User-Agent", "GitHub-Profile-Updater")
+          if token:
+              req.add_header("Authorization", f"Bearer {token}")
+
+          with urllib.request.urlopen(req) as response:
+              repos = json.loads(response.read().decode())
+
+          # Filter out forks and the profile README repository itself
+          filtered = [
+              r for r in repos
+              if not r.get("fork")
+              and not r.get("archived")
+              and r.get("name", "").lower() != username.lower()
+          ][:6] # Top 6 most recently active repositories
+
+          # Build clean 2-column HTML table for README
+          rows = []
+          for i in range(0, len(filtered), 2):
+              pair = filtered[i:i+2]
+              cells = []
+              for r in pair:
+                  name = r.get("name")
+                  html_url = r.get("html_url")
+                  desc = r.get("description") or "Active software engineering repository."
+                  lang = r.get("language") or "Code"
+                  stars = r.get("stargazers_count", 0)
+                  homepage = r.get("homepage")
+
+                  live_link = f' · <a href="{homepage}">Live Demo ↗</a>' if homepage else ""
+                  star_badge = f" · ⭐ {stars}" if stars > 0 else ""
+
+                  cell = f"""<td width="50%" valign="top">
+            <h3><a href="{html_url}">{name}</a></h3>
+            <p>{desc}</p>
+            <p><sub><strong>{lang}</strong>{star_badge}{live_link}</sub></p>
+          </td>"""
+                  cells.append(cell)
+
+              if len(cells) == 1:
+                  cells.append('<td width="50%"></td>')
+
+              rows.append("<tr>\n" + "\n".join(cells) + "\n</tr>")
+
+          table_html = '<table width="100%">\n' + "\n".join(rows) + "\n</table>"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          pattern = r"(<!-- PROJECTS:START -->).*?(<!-- PROJECTS:END -->)"
+          replacement = f"\\1\n{table_html}\n\\2"
+          updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+          if updated_readme != readme:
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(updated_readme)
+              print("README.md updated with latest repositories.")
+          else:
+              print("No repository changes detected.")
+          EOF
+
+      - name: Commit and push README changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: auto-update latest repositories in README"
+          git push
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Deploy Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
