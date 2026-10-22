@@ -1,195 +1,111 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Agarwal</h1>
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="72%" valign="middle" align="left">
+<h1>Priyanshu Agarwal</h1>
+<h3>Software Engineer · Java Backend & Full-Stack Development</h3>
+<p>B.Tech Computer Science student focused on building backend systems with Java & Spring Boot, full-stack web applications, and solving algorithmic problems.</p>
+
+<p>
+  <a href="https://priyanshuuagarwal.in"><img src="https://img.shields.io/badge/Portfolio-priyanshuuagarwal.in-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-agarwal-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/PriyanshuAgarwal1407"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+</td>
+<td width="28%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/197050304?v=4" width="150" alt="Priyanshu Agarwal" style="border-radius: 50%;" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+<table width="100%">
+<tr>
+<td width="22%"><strong>Languages</strong></td>
+<td width="78%">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css&perline=8" height="36" alt="Languages" />
+  <br /><sub>Java (Core, OOP, Collections, Multithreading), JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3</sub>
+</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi&perline=8" height="36" alt="Backend" />
+  <br /><sub>Spring Boot, REST APIs, Node.js, Express.js, JDBC</sub>
+</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=8" height="36" alt="Frontend" />
+  <br /><sub>React.js, Next.js, Tailwind CSS, Responsive UI</sub>
+</td>
+</tr>
+<tr>
+<td><strong>Databases & Tools</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,git,github,docker,linux,postman,idea,vscode&perline=10" height="36" alt="Databases and Tools" />
+  <br /><sub>PostgreSQL, MySQL, MongoDB, Git, GitHub, Docker, Linux, Postman, IntelliJ IDEA</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Engineering Focus
+
+- **Backend Engineering:** Designing and building RESTful APIs and backend services using **Java** and **Spring Boot**.
+- **Data Structures & Algorithms:** Daily algorithmic problem solving and interview preparation in Java.
+- **Full-Stack Development:** Building end-to-end web applications with **React / Next.js** and relational databases (**PostgreSQL / MySQL**).
+- **System Design:** Practicing Object-Oriented Design (LLD), multithreading, and database schema optimization.
+
+---
+
+## 💻 Active Repositories (Auto-Updated)
 
 <p align="center">
-  <b>B.Tech Student • Aspiring Software Engineer • Java Backend Enthusiast</b>
+  <img src="https://www.gitskins.com/api/section/projects?username=priyanshuagarwal1407&mode=dark" width="100%" alt="Priyanshu Agarwal dynamic projects" />
 </p>
 
-<p align="center">
-  Passionate about building software, solving problems, and continuously learning modern technologies.
-</p>
-
-<p align="center">
-  <a href="https://github.com/PriyanshuAgarwal1407">
-    <img src="https://komarev.com/ghpvc/?username=PriyanshuAgarwal1407&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<div align="center">
+  <a href="https://github.com/PriyanshuAgarwal1407?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
-</p>
+</div>
+
+---
+
+## 📊 Problem Solving & GitHub Metrics
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
+  <img src="https://leetcard.jacoblin.cool/CoderPriyanshuAgarwal?theme=dark&font=JetBrains%20Mono&ext=contest" width="100%" alt="LeetCode Statistics" />
+</td>
+<td width="50%" align="center" valign="middle">
+  <img src="https://streak-stats.demolab.com?user=PriyanshuAgarwal1407&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak" />
+  <br /><br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PriyanshuAgarwal1407&layout=compact&theme=tokyonight&hide_border=true" width="92%" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Learning+Data+Structures+%26+Algorithms;Building+Real+World+Applications;Exploring+Full+Stack+Development;Future+Software+Engineer"
-    alt="Typing SVG"
-  />
-</p>
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech student passionate about Software Engineering
-* ☕ Focused on Java and Backend Development
-* 🧠 Strengthening problem-solving through Data Structures & Algorithms
-* 🌐 Exploring modern Full-Stack Web Development
-* 🛠️ I enjoy learning by building practical applications
-* 🌱 Currently exploring Spring Boot, React, REST APIs, and System Design
-* 🎯 Working towards Software Engineering roles at top product companies
-
----
-
-## 📖 Currently Learning
-
-* ☕ Java & Core Java
-* 🧠 Data Structures & Algorithms
-* 🌐 HTML5
-* 🎨 CSS3
-* ⚡ JavaScript (ES6+)
-* 📘 TypeScript
-* ⚛️ React
-* ▲ Next.js
-* 🎨 Tailwind CSS
-* 🍃 Spring Boot
-* 🔗 REST APIs
-* 🗄️ SQL & PostgreSQL
-* 🔧 Git & GitHub
-* 🐳 Docker
-* 🏗️ System Design
-
----
-
-## 🎯 Goals for 2026
-
-* 🚀 Become a strong Java Backend Engineer
-* 💻 Build production-ready applications
-* 🧠 Develop strong DSA and problem-solving skills
-* 🌍 Contribute to Open Source
-* 🏗️ Learn Low-Level & High-Level System Design
-* ☁️ Explore Cloud and DevOps technologies
-* 💼 Crack Software Engineering interviews
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="Languages" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" alt="Backend" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea" alt="Tools" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=PriyanshuAgarwal1407&theme=tokyonight&show_icons=true&hide_border=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=PriyanshuAgarwal1407&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=PriyanshuAgarwal1407&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuAgarwal1407&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://github.com/PriyanshuAgarwal1407/PriyanshuAgarwal1407/blob/output/github-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-## 🌟 Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineering-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Architecture-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Developer%20Tools-181717?style=for-the-badge" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-agarwal-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://instagram.com/agarwal__priyanshu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-  <a href="https://github.com/PriyanshuAgarwal1407">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-## 🧠 LeetCode
-
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/CoderPriyanshuAgarwal?theme=dark&font=JetBrains%20Mono&ext=contest"
-    alt="LeetCode Statistics"
-  />
+  <img src="https://ghchart.rshah.org/2563EB/PriyanshuAgarwal1407" width="95%" alt="Priyanshu Agarwal GitHub Contribution Calendar" />
 </p>
 
 ---
 
 <p align="center">
-  <i>“Learning today. Building tomorrow. Improving every day.”</i>
+  <sub>Built and maintained by <strong>Priyanshu Agarwal</strong> · <a href="https://priyanshuuagarwal.in">priyanshuuagarwal.in</a></sub>
 </p>
