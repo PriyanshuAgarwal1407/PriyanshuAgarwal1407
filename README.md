@@ -79,11 +79,11 @@ Progress is tracked on [LeetCode](https://leetcode.com/u/CoderPriyanshuAgarwal/)
 | Repository | Primary Language | Description | Last Pushed |
 | :--- | :--- | :--- | :--- |
 | **[LeetcodeQuestion](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion)** | `Java` | Java solutions to LeetCode problems with clean code and optimized approaches for interview preparation. | Oct 26, 2026 |
-| **[BolPrep](https://github.com/PriyanshuAgarwal1407/BolPrep)** | `TypeScript` | BolPrep is a voice-first interview answer coach that helps you practice speaking, not just typing. Get feedback on answer structure, filler words, and pacing, with quoted insights and retry-by-retry comparisons. No sign-up required. | Oct 24, 2026 |
 | **[DSA_Questions](https://github.com/PriyanshuAgarwal1407/DSA_Questions)** | — | — | Oct 24, 2026 |
 | **[Java](https://github.com/PriyanshuAgarwal1407/Java)** | `Java` | Complete Java learning journey from fundamentals and Object-Oriented Programming (OOP) to Data Structures, Algorithms, and practical problem solving. | Oct 22, 2026 |
 | **[GitGithubLearn](https://github.com/PriyanshuAgarwal1407/GitGithubLearn)** | `CSS` | Learning Git and Github | Aug 29, 2026 |
 | **[inkwell](https://github.com/PriyanshuAgarwal1407/inkwell)** | `JavaScript` | Final Internship Project - Full-Stack MERN Blog Application | Aug 25, 2026 |
+| **[DummyJSON-Dashboard](https://github.com/PriyanshuAgarwal1407/DummyJSON-Dashboard)** | `HTML` | A responsive frontend dashboard built using pure HTML5, CSS3 and JavaScript . | Aug 04, 2026 |
 <!-- REPO-LIST:END -->
 
 ---
