@@ -79,11 +79,11 @@ Progress is tracked on [LeetCode](https://leetcode.com/u/CoderPriyanshuAgarwal/)
 | Repository | Primary Language | Description | Last Pushed |
 | :--- | :--- | :--- | :--- |
 | **[DSA_Questions](https://github.com/PriyanshuAgarwal1407/DSA_Questions)** | `Java` | — | Nov 11, 2026 |
-| **[SpyGlass](https://github.com/PriyanshuAgarwal1407/SpyGlass)** | `Rust` | A blazing-fast, keyboard-first Windows launcher and file search engine built in Rust. Combining Everything-level NTFS search with Raycast-inspired productivity tools, featuring native D3D11 liquid glass UI, local AI, clipboard history, snippets, window management, and an extensible plugin system. Lightweight, private, and fully offline. | Nov 09, 2026 |
 | **[LeetcodeQuestion](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion)** | `Java` | Java solutions to LeetCode problems with clean code and optimized approaches for interview preparation. | Oct 26, 2026 |
 | **[Java](https://github.com/PriyanshuAgarwal1407/Java)** | `Java` | Complete Java learning journey from fundamentals and Object-Oriented Programming (OOP) to Data Structures, Algorithms, and practical problem solving. | Oct 22, 2026 |
 | **[GitGithubLearn](https://github.com/PriyanshuAgarwal1407/GitGithubLearn)** | `CSS` | Learning Git and Github | Aug 29, 2026 |
 | **[inkwell](https://github.com/PriyanshuAgarwal1407/inkwell)** | `JavaScript` | Final Internship Project - Full-Stack MERN Blog Application | Aug 25, 2026 |
+| **[DummyJSON-Dashboard](https://github.com/PriyanshuAgarwal1407/DummyJSON-Dashboard)** | `HTML` | A responsive frontend dashboard built using pure HTML5, CSS3 and JavaScript . | Aug 04, 2026 |
 <!-- REPO-LIST:END -->
 
 ---
